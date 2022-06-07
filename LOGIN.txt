@@ -1,0 +1,7 @@
+email: john.smith@gmail.com		#Example: example@gmail.com
+password: 123456789			#Example: 123456789
+course: C255				#Example: C255
+
+#Should the program run without the GUI (on = no GUI, off = with GUI)
+headless: off				#Example: on
+					
