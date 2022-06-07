@@ -46,4 +46,7 @@ EXECUTABLES:
 If there is any issue do not be scared to fix it yourself :D. I only ask to 
 create GitHub issues as well as forks for any changes/fixes.
 
+P.S.: find this line of code: `options.binary_location=r'C:\Program Files\Google\Chrome\Application\chrome.exe'` 
+	and change the path to your machine's browser location (once again I was too lazy to add that to the LOGIN.txt :D)
+
 
